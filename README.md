@@ -12,4 +12,13 @@ The backend is Firebase.I am using firebases's REST API for authentication and a
 I am also using it to populate and update my database with POST and PATCH requests.
 
 
-<img src="screenshots/Screenshot_1601381258.png" width="100">
+<img src="screenshots/Screenshot_1601381258.png" width="300">
+<img src="screenshots/Screenshot_1601381266.png" width="300">
+<img src="screenshots/Screenshot_1601382324.png" width="300">
+<img src="screenshots/Screenshot_1601382341.png" width="300">
+<img src="screenshots/Screenshot_1601382350.png" width="300">
+<img src="screenshots/Screenshot_1601382374.png" width="300">
+<img src="screenshots/Screenshot_1601382381.png" width="300">
+<img src="screenshots/Screenshot_1601382684.png" width="300">
+<img src="screenshots/Screenshot_1601382764.png" width="300">
+<img src="screenshots/Screenshot_1601382856.png" width="300">
