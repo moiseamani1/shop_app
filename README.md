@@ -1,16 +1,12 @@
-# shop_app
+# Flowerz
 
-A new Flutter project.
+I have built a simple cross-platform demo mobile application for listing flowers. This is just the client-side of the application. 
 
-## Getting Started
+* Users can add favorites
+* Users can post listings of their flowers, edit their listings and view other listings
+* Users are automatically logged out after a period of time
+* Users are automatically logged in during their authenticated session period.(i.e. app closing does not lead to logging in again)
+* Users can add flower items to a cart and place orders
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The backend is Firebase.I am using firebases's REST API for authentication and authorisation.
+I am also using it to populate and update my database with POST and PATCH requests.
