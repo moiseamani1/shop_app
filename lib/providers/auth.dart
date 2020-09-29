@@ -70,7 +70,7 @@ Future<bool> autoLogin() async{
   if(!preferences.containsKey('userCredentials')){
     return false;
   }
-  final credData=preferences.getString('userCredentials') as Map<String,Object>;
+  final credData=json.decode(preferences.getString('userCredentials')) as Map<String,Object>;
   final expiryDate=DateTime.parse(credData['expiryDate']);
   if(expiryDate.isBefore(DateTime.now())){
       return false;
